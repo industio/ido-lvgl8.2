@@ -1,0 +1,9 @@
+/home/ronnie/work3/ssd201/lvgl/lvgl/CMakeFiles/install/strip.dir
+/home/ronnie/work3/ssd201/lvgl/lvgl/CMakeFiles/install/local.dir
+/home/ronnie/work3/ssd201/lvgl/lvgl/CMakeFiles/install.dir
+/home/ronnie/work3/ssd201/lvgl/lvgl/CMakeFiles/list_install_components.dir
+/home/ronnie/work3/ssd201/lvgl/lvgl/CMakeFiles/rebuild_cache.dir
+/home/ronnie/work3/ssd201/lvgl/lvgl/CMakeFiles/lvgl.dir
+/home/ronnie/work3/ssd201/lvgl/lvgl/CMakeFiles/lvgl_demos.dir
+/home/ronnie/work3/ssd201/lvgl/lvgl/CMakeFiles/lvgl_examples.dir
+/home/ronnie/work3/ssd201/lvgl/lvgl/CMakeFiles/edit_cache.dir
